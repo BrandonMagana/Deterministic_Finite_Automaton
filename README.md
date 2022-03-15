@@ -10,7 +10,7 @@ This program implements a Deterministic Finite Automaton (DFA) in order to figur
 ```
   python main.py -path-to-file-
 ```
-Try it now using `python main.py test.txt` 
+Try it now running this command: `python main.py test.txt` 
 
 ## Input Example (.txt File)
 ```
