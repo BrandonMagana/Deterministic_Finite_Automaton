@@ -52,7 +52,6 @@ This program implements a Deterministic Finite Automaton (DFA) in order to figur
     // c=35*19 ^ 3.     Esto es un comentario --> Comentario
     _a25 --> ERROR
     // error --> Comentario
-
     ------------------
 ```
 
